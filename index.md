@@ -10,9 +10,15 @@
 
 
 ## Open Source Initiatives
-* [Kandinsky](https://shauryashaurya.github.io/kandinsky/)
+* [Kandinsky](https://shauryashaurya.github.io/kandinsky/) - discover key colours in a painting or photograph using K-Means clustering. Also provides the proportions of the colours. Some results (more in the repo):
+
+  ![01](images/k1.jpg)
+  ![02](images/k2.jpg)
+  ![03](images/k3.jpg)
+  ![04](images/k4.jpg)
+  
 * [Notebooks on Statistics and Machine Learning](https://github.com/shauryashaurya/NoteBooks-Statistics-and-MachineLearning)
-* [Barneley Fern Fractal](https://gist.github.com/shauryashaurya/257042e27df06f771f34bcc877b128cf)
+* [Barnsley Fern Fractal](https://gist.github.com/shauryashaurya/257042e27df06f771f34bcc877b128cf)
 
   ![Barnsley Fern Result 1](images/barnsley1.jpg)
   ![Barnsley Fern Result 2](images/barnsley3.png)
