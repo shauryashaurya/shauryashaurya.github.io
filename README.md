@@ -11,6 +11,7 @@
 
 ## Open Source Initiatives
 * [Kandinsky](https://shauryashaurya.github.io/kandinsky/) - discover key colours in a painting or photograph using K-Means clustering. Also provides the proportions of the colours. Some results (more in the repo):
+
   ![01](images/k1.jpg)
   ![02](images/k2.jpg)
   ![03](images/k3.jpg)
