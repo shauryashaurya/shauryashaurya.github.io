@@ -15,4 +15,4 @@
 
 ## Certifications
 * [Deeplearning.ai + Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/3Q6YKY4FL893)
-** [Neural Networks and Deep Learning](https://coursera.org/share/6e6578079a897653f694e2b0aa29d9c3) 
+  * [Neural Networks and Deep Learning](https://coursera.org/share/6e6578079a897653f694e2b0aa29d9c3) 
