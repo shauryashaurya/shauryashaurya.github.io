@@ -1,17 +1,23 @@
 # **shauryashaurya**
 ## web presence for Shaurya Agarwal
 
-## Bio
+## About 
 
+* [Github](https://github.com/shauryashaurya)
 * [Linked In](https://www.linkedin.com/in/shauryashaurya/)
-* [Facebook](https://www.facebook.com/shauryashaurya)
+* [Instagram](https://www.instagram.com/shaurya.shaurya/) - photography, sketches etc.
+* [Facebook](https://www.facebook.com/shauryashaurya) - social
 
 
 ## Open Source Initiatives
 * [Kandinsky](https://shauryashaurya.github.io/kandinsky/)
 * [Notebooks on Statistics and Machine Learning](https://github.com/shauryashaurya/NoteBooks-Statistics-and-MachineLearning)
 * [Barneley Fern Fractal](https://gist.github.com/shauryashaurya/257042e27df06f771f34bcc877b128cf)
+  ![Barnsley Fern Result 1](images/barnsley1.jpg)
+  ![Barnsley Fern Result 2](images/barnsley3.png)
 * [Phyllotaxis and L-systems example](https://gist.github.com/shauryashaurya/9ce3815ae7f95fd0d9997c5d882d10a4)
+  ![Result 1](images/phyllo1.jpg)
+  ![Result 2](images/phyllo0.jpg)
 
 ## Certifications
 * [Deeplearning.ai + Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/3Q6YKY4FL893) - scored 100% across the board.
