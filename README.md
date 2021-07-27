@@ -10,6 +10,8 @@
 
 
 ## Open Source Initiatives
+* [CoolRE](https://shauryashaurya.github.io/coolRE/) - pronounced "cooler" provides 3 approaches to building a regular expressions engine - a toy overview, a backtracking based implementation and a finite-automata based approach.
+
 * [Kandinsky](https://shauryashaurya.github.io/kandinsky/) - discover key colours in a painting or photograph using K-Means clustering. Also provides the proportions of the colours. Some results (more in the repo):
 
   ![01](images/k1.jpg)
