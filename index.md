@@ -11,7 +11,7 @@
   
 ## Open Source Initiatives  
   
-### [Data Munging Using *X*](https://github.com/shauryashaurya/learn-data-munging)
+### [Data Munging Using *X*](https://github.com/shauryashaurya/learn-data-munging#data-munging-using-x)
 Data Engineering Workshops with Spark (PySpark), Pandas, Dask, Ray etc - some of the most popular libraries in the field.
   
 ### [Notebooks on Statistics and Machine Learning](https://github.com/shauryashaurya/Notes-on-Statistics-and-Machine-Learning-with-Python)
