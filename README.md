@@ -11,9 +11,11 @@
   
 ## Open Source Initiatives  
   
-### [Data Munging Using *X*](https://github.com/shauryashaurya/Notes-on-Statistics-and-Machine-Learning-with-Python) - Data Engineering Workshops with Spark (PySpark), Pandas, Dask, Ray etc - some of the most popular libraries in the field.
+### [Data Munging Using *X*](https://github.com/shauryashaurya/Notes-on-Statistics-and-Machine-Learning-with-Python)
+Data Engineering Workshops with Spark (PySpark), Pandas, Dask, Ray etc - some of the most popular libraries in the field.
   
-### [Notebooks on Statistics and Machine Learning](https://github.com/shauryashaurya/Notes-on-Statistics-and-Machine-Learning-with-Python) - These serve as practical notes and references on common machine learning algorithms with an introduction to Pandas and Numpy.   
+### [Notebooks on Statistics and Machine Learning](https://github.com/shauryashaurya/Notes-on-Statistics-and-Machine-Learning-with-Python)
+These serve as practical notes and references on common machine learning algorithms with an introduction to Pandas and Numpy.   
   
 ### [CoolRE](https://shauryashaurya.github.io/coolRE/)
 Pronounced "cooler" provides 3 approaches to building a regular expressions engine - a toy overview, a backtracking based implementation and a finite-automata based approach.  
