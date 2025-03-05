@@ -57,5 +57,5 @@ Discover key colours in a painting or photograph using K-Means clustering. Also 
 * [Building x.509 certificates for MongoDB](https://github.com/shauryashaurya/tutorial-x.509certificates-mongo) - was written originally to be used with MongoDB, may be outdated, see latest Mongo documentation. Still a good step-by-step on how to build a certificate.
 * [DC/OS Training](https://shauryashaurya.github.io/DCOS-Training/) - no longer current, it's better to reference the DC/OS documentation.
      
-## [A quick FinOps project with Notional Data](https://github.com/shauryashaurya/Sample-FinOps-Project/blob/main/Cost_Usage_Analysis_001.html)
+## [A quick FinOps project with Notional Data](https://shauryashaurya.github.io/shauryashaurya/Sample-FinOps-Project/blob/main/Cost_Usage_Analysis_001.html)
    
