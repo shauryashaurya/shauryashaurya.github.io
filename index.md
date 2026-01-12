@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # **shauryashaurya**
 ## Web presence for **Shaurya Agarwal**
   
