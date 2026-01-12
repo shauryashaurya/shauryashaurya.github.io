@@ -23,6 +23,9 @@ These serve as practical notes and references on common machine learning algorit
 
 ### [Vogon Poetry](https://shauryashaurya.github.io/vogon-poetry/)
 concepts like zero-copy-columnar-layout-distributed-vectorized etc. that sound like Vogon Poetry to data engineering teams trying to modernize their game...             
+
+### [The Data Engineering Rocket Ship](https://shauryashaurya.github.io/rocket-ship/)
+Long-form posts on data engineering and technology in collaboration with my team            
       
 ### [CoolRE](https://shauryashaurya.github.io/coolRE/)
 Pronounced "cooler" provides 3 approaches to building a regular expressions engine - a toy overview, a backtracking based implementation and a finite-automata based approach.  
