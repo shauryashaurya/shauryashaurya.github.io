@@ -12,20 +12,24 @@
 ## Open Source Initiatives  
 
   
+  
 ### [Data Munging Using *X*](https://github.com/shauryashaurya/learn-data-munging#data-munging-using-x)
 Data Engineering Workshops with Spark (PySpark), Pandas, Dask, Ray etc - some of the most popular libraries in the field. Supports Google Colab, click on the ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) badge next to each notebook's link.
   
-### [Notebooks on Statistics and Machine Learning](https://github.com/shauryashaurya/Notes-on-Statistics-and-Machine-Learning-with-Python)
-These serve as practical notes and references on common machine learning algorithms with an introduction to Pandas and Numpy.   
-      
+### [Notebooks on Statistics and Machine Learning](https://github.com/shauryashaurya/Notes-on-Statistics-and-Machine-Learning-with-Python)   
+These serve as practical notes and references on common machine learning algorithms with an introduction to Pandas and Numpy.      
+
 ### [Vogon Poetry](https://shauryashaurya.github.io/vogon-poetry/)
-concepts like zero-copy-columnar-layout-distributed-vectorized etc. that sound like Vogon Poetry to data engineering teams trying to modernize their game...             
+concepts like zero-copy-columnar-layout-distributed-vectorized etc. that sound like Vogon Poetry to data engineering teams trying to modernize their game...              
+
+### [The Data Engineering Rocket Ship](https://shauryashaurya.github.io/rocket-ship/)
+Long-form posts on data engineering and technology in collaboration with my team              
       
 ### [CoolRE](https://shauryashaurya.github.io/coolRE/)
-Pronounced "cooler" provides 3 approaches to building a regular expressions engine - a toy overview, a backtracking based implementation and a finite-automata based approach.  
+Pronounced "cooler" provides 3 approaches to building a regular expressions engine - a toy overview, a backtracking based implementation and a finite-automata based approach.    
   
 ### [Kandinsky](https://shauryashaurya.github.io/kandinsky/)
-Discover key colours in a painting or photograph using K-Means clustering. Also provides the proportions of the colours. Some results (more in the repo):  
+Discover key colours in a painting or photograph using K-Means clustering. Also provides the proportions of the colours. Some results (more in the repo):    
   
   ![01](images/k1.jpg)
     
